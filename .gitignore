@@ -1,0 +1,9 @@
+# Ignore a specific file
+ignore.me
+
+# Ignore a directory
+ignore-this/
+**/ignore-this/
+
+# Ignore files of a specific type
+*.ccc
