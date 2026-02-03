@@ -1,5 +1,5 @@
 # Collaborative Coding Club Sample Git Repository
-This repository is for the purpose of demonstrating some of the core features of git.
+This repository is for the purpose of demonstrating some of the core features of git for ccc.
 
 # Basic Git Commands
 ```sh
